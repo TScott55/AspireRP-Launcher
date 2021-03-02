@@ -1,2 +1,2 @@
-# AspireRP-Launcher
-This Launcher is used for AspireRP, for ease of access (Not Required)
+# FiveMCommunityLauncher
+This is a launcher that can allow players to connect to their community's servers faster.
